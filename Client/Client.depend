@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1640711036 source:/home/quilt/Homework/Homework 6/Client/main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/socket.h>
+	<netinet/tcp.h>
+	<netinet/in.h>
+	<time.h>
+	<unistd.h>
+	<string.h>
+	<arpa/inet.h>
+	<netdb.h>
+
